@@ -1,6 +1,6 @@
 package tapasao;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Tapasao {
     public static void main(String[] args) {
@@ -14,13 +14,13 @@ public class Tapasao {
 //  gr1.addGrades(1012, "Yashmil", 1.2, 3.2, 1.2, 2.1);
 //  gr1.viewGrades();  
 //    
-//   }
+//   
      
 
 //GRADE
-    Grade grade = new Grade();
-    grade.genGrade();
-    
+//    Grade grade = new Grade();
+//    grade.genGrade();
+//    
 
 
 //PRODUCT
@@ -57,7 +57,12 @@ public class Tapasao {
 //NETPAY
 // NetPay netPay = new NetPay();
 // netPay.Info();
-    
+//    
+//
+
+//SALARIES
+   Salaries salaries = new Salaries();
+   salaries.totalsalary();
 
 
 

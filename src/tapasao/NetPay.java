@@ -1,7 +1,6 @@
 package tapasao;
 
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class NetPay {
