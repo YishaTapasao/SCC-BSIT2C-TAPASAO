@@ -18,9 +18,9 @@ public class Tapasao {
      
 
 //GRADE
-//    Grade grade = new Grade();
-//    grade.genGrade();
-//    
+    Grade grade = new Grade();
+    grade.genGrade();
+    
 
 
 //PRODUCT
@@ -69,12 +69,18 @@ public class Tapasao {
 
 
 //PRODUCTS
- Products products = new Products();
-  products.manageProducts();
+// Products products = new Products();
+//  products.manageProducts();
+//  
+//  
   
-  
-  
-  
+
+//ACCOUNTS
+//Accounts accountManager = new Accounts();
+//        accountManager.manageAccounts();
+//        
+        
+                
     }
     
   
