@@ -33,10 +33,9 @@ public class Tapasao {
 //       pr1.viewProduct();
 //
 //
-//    }
+//    
 
-
-
+   
 
 //AGE
 //Scanner input = new Scanner (System.in);
@@ -61,11 +60,22 @@ public class Tapasao {
 //
 
 //SALARIES
-   Salaries salaries = new Salaries();
-   salaries.totalsalary();
+//   Salaries salaries = new Salaries();
+//   salaries.totalsalary();
+//
+//
+//
+//    
 
 
-
+//PRODUCTS
+ Products products = new Products();
+  products.manageProducts();
+  
+  
+  
+  
     }
     
+  
 }

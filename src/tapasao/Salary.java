@@ -24,6 +24,6 @@ public class Salary {
     public static void printHeader() {
         System.out.printf("%-10s %-10s %-10s %-12s %-12s %-12s %-12s\n", 
                           "ID", "Name", "Rate", "Hours", "Gross", "Deduction", "Net Pay");
-        System.out.println("--------------------------------------------------------------");
+        System.out.println("-----------------------------------------------------------------------------");
     }
 }
